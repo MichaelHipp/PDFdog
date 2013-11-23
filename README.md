@@ -61,7 +61,7 @@ else when PDFdog is running.
 
 Downloads
 ---------
-There is a Windows binary available here:
+There is a Windows binary available in [Releases](https://github.com/MichaelHipp/PDFdog/releases).
 It does not need to be installed, just put the executable somewhere in your path.
 
 Otherwise, grab the code from github. The only dependency is docopt. I have only
